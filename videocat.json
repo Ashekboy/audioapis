@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Nollywood",
+        "img": "https://i.ibb.co/3yQxkJr/Nolly.jpg",
+        "id": "nollywood"
+    },
+    {
+        "name": "Hollywood",
+        "img": "https://i.ibb.co/DM7fKmc/holly.jpg",
+        "id": "hollywood"
+    },
+    {
+        "name": "Bollywood",
+        "img": "https://i.ibb.co/800d1Yx/kids.jpg",
+        "id": "bollywood"
+    },
+    {
+        "name": "Music",
+        "img": "https://i.ibb.co/hWZTL2t/music.jpg",
+        "id": "music"
+    },
+    {
+        "name": "Gospel",
+        "img": "https://i.ibb.co/bvMBG6R/gospel.jpg",
+        "id": "gospel"
+    },
+    {
+        "name": "Islamic",
+        "img": "https://i.ibb.co/4sGPych/islamic.jpg",
+        "id": "islamic"
+    },
+    {
+        "name": "Sports",
+        "img": "https://i.ibb.co/1mkVHJD/sports.png",
+        "id": "sports"
+    },
+    {
+        "name": "Kids",
+        "img": "https://i.ibb.co/800d1Yx/kids.jpg",
+        "id": "kids"
+    },
+    {
+        "name": "Recipes",
+        "img": "https://i.ibb.co/8D92cd3/banner2.jpg",
+        "id": "recipes"
+    },
+    {
+        "name": "Fashion",
+        "img": "https://i.ibb.co/R3QDrNR/fash.jpg",
+        "id": "fashion"
+    }
+]
