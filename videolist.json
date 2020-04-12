@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Iya Bukata",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "cover": "https://i.ibb.co/XX0CLZk/x1080.jpg",
+        "id": "x7mt8kb",
+        "type": "nollywood",
+        "crews": [
+            {
+              "name": "Funke Akindele",
+              "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            },
+            {
+               "name": "Ogogo",
+               "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            },
+            {
+                "name": "Yinka Quadri",
+                "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            }
+          ]
+       
+        },
+     {
+        "name": "Mama Kowope",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,",
+        "cover": "https://i.ibb.co/gVDCY6L/maxresdefault.jpg",
+        "id": "x7pqz4h",
+        "type": "nollywood",
+        "crews": [
+            {
+              "name": "Funke Akindele",
+              "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            },
+            {
+               "name": "Ogogo",
+               "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            },
+            {
+                "name": "Yinka Quadri",
+                "url": "https://i.scdn.co/image/398aeedb219a61b06e8628a2f72cc993871d55df"
+            }
+          ]  
+    }
+]
