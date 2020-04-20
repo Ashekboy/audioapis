@@ -1,17 +1,30 @@
 
    [
+   {
+       "name": "Sports",
+       "id": "38",
+       "img": "https://i.ibb.co/RhNYmjk/Sports.jpg"
+   },{
+       "name": "Technology",
+       "id": "258",
+        "img": "https://i.ibb.co/zhK3BHq/robo.jpg"
+   },{
+    "name": "Science",
+    "id": "261",
+    "img": "https://i.ibb.co/MMjRYK8/photo-1507413245164-6160d8298b31.jpg"
+    }, {
+        "name": "Travel",
+        "id": "263",
+        "img": "https://i.ibb.co/j8b9qxX/best-time-book-travel-holidays.jpg"
+    },{
+        "name": "Afrique",
+        "id": "246",
+        "img": "https://i.ibb.co/QPrbyzL/t-NCbi-T76-HR.jpg"
+    },
     {
-       "name": "Afrique",
-       "id": "246",
-       "img": "https://i.ibb.co/QPrbyzL/t-NCbi-T76-HR.jpg"
-   }, {
        "name": "Cuisine",
        "id": "253",
        "img": "https://i.ibb.co/kBLQTn5/vegetarian-plate-IMG-4952.jpg"
-   }, {
-       "name": "Dossier",
-       "id": "228",
-       "img": "https://i.ibb.co/xCC2Mpx/unnamed.jpg"
    }, {
       "name": "Bollywood",
       "id": "224",
@@ -25,14 +38,6 @@
        "name": "India",
        "id": "109",
        "img": "https://i.ibb.co/Lgk5qtf/life-in-india.jpg"
-   },{
-       "name": "Lifestyle",
-       "id": "12",
-       "img": "https://i.ibb.co/4V281wc/mystik-life-style-day-pass-package-best-deals-mari-bon-deals-noudeal-6.jpg"
-   }, {
-       "name": "Loto",
-       "id": "221",
-       "img": "https://i.ibb.co/jHF0Zsf/6563575-9899323.jpg"
    }, {
        "name": "Meteo",
        "id": "219",
@@ -49,21 +54,9 @@
        "name": "Sante",
        "id": "226",
        "img": "https://i.ibb.co/HtzJhNb/medical-doctor.jpg"
-   }, {
-       "name": "Science",
-       "id": "261",
-       "img": "https://i.ibb.co/MMjRYK8/photo-1507413245164-6160d8298b31.jpg"
-   }, {
-       "name": "Sports",
-       "id": "38",
-       "img": "https://i.ibb.co/RhNYmjk/Sports.jpg"
    },{
-       "name": "Technology",
-       "id": "258",
-       "img": "https://i.ibb.co/zhK3BHq/robo.jpg"
-   }, {
-       "name": "Travel",
-       "id": "263",
-       "img": "https://i.ibb.co/j8b9qxX/best-time-book-travel-holidays.jpg"
+    "name": "Dossier",
+    "id": "228",
+    "img": "https://i.ibb.co/xCC2Mpx/unnamed.jpg"
    }
 ]      
