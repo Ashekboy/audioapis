@@ -9,10 +9,6 @@
        "id": "258",
         "img": "https://i.ibb.co/zhK3BHq/robo.jpg"
    },{
-    "name": "Science",
-    "id": "261",
-    "img": "https://i.ibb.co/MMjRYK8/photo-1507413245164-6160d8298b31.jpg"
-    }, {
         "name": "Travel",
         "id": "263",
         "img": "https://i.ibb.co/CnNZzt0/summer-fb-and-cover.jpg"
@@ -35,11 +31,7 @@
       "id": "224",
       "img": "https://i.ibb.co/bsw5X9D/tm-GPj-Kas-Ee.jpg"
       }, 
-   {
-       "name": "Hollywood",
-       "id": "257",
-       "img": "https://i.ibb.co/DM7fKmc/holly.jpg"
-   }, {
+  {
        "name": "India",
        "id": "109",
        "img": "https://i.ibb.co/Lgk5qtf/life-in-india.jpg"
